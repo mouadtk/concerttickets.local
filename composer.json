@@ -1,0 +1,19 @@
+{
+    "name": "vendor/concertticketsq",
+    "description": "Description of project concertticketsq.",
+    "authors": [
+        {
+            "name": "tmouad",
+            "email": "tribak.m@gmail.com"
+        }
+    ],
+    "require": { 
+        "php": ">=5.3.3",
+        "doctrine/doctrine-orm-module": "0.7.*",
+        "zendframework/zendframework": "2.3.*",
+        "zendframework/zend-developer-tools": "dev-master",
+        "zendframework/zend-db": ">=2.1.0",
+        "bjyoungblood/bjy-authorize": "1.2.*",
+        "bjyoungblood/bjy-profiler": "dev-master"
+    }
+}
